@@ -1,5 +1,26 @@
-<h1>Hi there 👋, I'm Priya! <br/><br/><a href="https://www.linkedin.com/in/priyaaruchami/">Aspiring Cybersecurity Professional</a></h1>
+### Hi there 👋, I'm Priya! <br/>
 
+I am an aspiring Cloud Security professional with 10+ years background in software testing. I am a self-taught career transitioner actively learning and expanding my cybersecurity skills, eager to contribute to the community and help protect people better.<br/><br/>
+
+- 🌱 I’m currently learning -- Google Cybersecurity Professional Course, AWS Cloud Practitioner Essentials<br/>
+- 🔭 I’m currently working on setting up a virtual cybersecurity lab to get my hands-on technical skills<br/>
+
+<br/>
+
+## Projects
+
+- [Team Sprint - WiCys & Clicked/IBM Skillsbuild Project](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+
+<!--  
+  <a href="https://www.linkedin.com/in/priyaaruchami/">Aspiring Cybersecurity Professional</a></h1>
+<br/>
+- 🌱 I’m currently learning Google Cybersecurity Professional Course, AWS Cloud Practitioner Essentials<br/>
+- 🔭 I’m currently working on Setting up a virtual Cybersecurity lab<br/>
+- 📫 Connect with me: <br/>
+
+<h2>Projects:</h2>
+- [Team Sprint - WiCys & Clicked/IBM Skillsbuild Project](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+-->
 <!--
 **PriyadharshniA/PriyadharshniA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
