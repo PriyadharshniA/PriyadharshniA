@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Priya! <br/>
+### Hi there 👋, I'm Priya! <br/> 
 
 Passionate about cybersecurity and driven to contribute to a safer digital world. With 10+ years of experience in software testing, I possess strong analytical and problem-solving skills. Currently transitioning my career into Cloud Security through dedicated self-study. Eager to learn and contribute to a team that prioritizes innovation and a strong security posture.<br/><br/>
 
@@ -16,8 +16,17 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 
 <a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp; 
 <a href="https://tryhackme.com/r/p/PriAru"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
-   
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<!--
+<p align="center">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PriyadharshniA&theme=tokyonight" height="56%" width="56%" />
+</p>
+-->
 <!--
 **PriyadharshniA/PriyadharshniA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
