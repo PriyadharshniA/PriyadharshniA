@@ -9,7 +9,7 @@ I am an aspiring Cloud Security professional with 10+ years background in softwa
 
 ## Projects
 
-- [Team Sprint - WiCys & Clicked/IBM Skillsbuild Project](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 
 <!--  
   <a href="https://www.linkedin.com/in/priyaaruchami/">Aspiring Cybersecurity Professional</a></h1>
