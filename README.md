@@ -13,11 +13,10 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 
 
 ## Connect with me
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/priyaaruchami)
 
-<!--  
-  <a href="https://www.linkedin.com/in/priyaaruchami/">Aspiring Cybersecurity Professional</a></h1>
--->
+<a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://tryhackme.com/r/p/PriAru"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a>
+   
 
 <!--
 **PriyadharshniA/PriyadharshniA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +33,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/priyaaruchami)
+-->
 
 <!--
 <h2>👨‍💻 Software Development Projects:</h2>
