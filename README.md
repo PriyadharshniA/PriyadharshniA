@@ -2,8 +2,8 @@
 
 I am an aspiring Cloud Security professional with 10+ years background in software testing. I am a self-taught career transitioner actively learning and expanding my cybersecurity skills, eager to contribute to the community and help protect people better.<br/><br/>
 
-- 🌱 I’m currently learning -- Google Cybersecurity Professional Course, AWS Cloud Practitioner Essentials<br/>
-- 🔭 I’m currently working on setting up a virtual cybersecurity lab to get my hands-on technical skills<br/>
+🌱 I’m currently learning -- Google Cybersecurity Professional Course, AWS Cloud Practitioner Essentials<br/>
+🔭 I’m currently working on setting up a virtual cybersecurity lab to get my hands-on technical skills<br/>
 
 <br/>
 
