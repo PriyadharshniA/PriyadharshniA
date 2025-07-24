@@ -18,7 +18,7 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 
 - [WiCys Vulnerability Disclosure Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 - [WiCyS/Target Cyber Defense Challenge Tier 1](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
-- [AWS AI Engineer Nanodegree via Udacity Offered by AWS](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- [AWS AI Engineer Nanodegree via Udacity Offered by AWS](https://github.com/PriyadharshniA/CampEats-PartyRockApp)
 - [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 
 <br/>
