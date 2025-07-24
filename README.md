@@ -51,6 +51,10 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PriyadharshniA&theme=tokyonight" height="56%" width="56%" />
 </p>
 -->
+<!-- For Later Updates****************************************************************************
+https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white
+****************************************************************************
+-->
 <!--
 **PriyadharshniA/PriyadharshniA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
