@@ -24,10 +24,10 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 <br/>
 
 ## Training & Certification
-- [Google Cybersecurity Professional Course](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
-- [Offensive Tooling Workshop Foundations Workshop by Antisyphon Training](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
-- [AWS Cloud Practitioner Essentials via Coursera AWS](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
-- [Introduction to Cloud Security Workshop by Antisyphon training](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- [Google Cybersecurity Professional Course](https://github.com/PriyadharshniA/assets/blob/main/Google%20Cybersecurity%20Certificate.png)
+- [Offensive Tooling Workshop Foundations Workshop by Antisyphon Training](https://github.com/PriyadharshniA/assets/blob/main/Offensive%20Tooling%20Foundations%20Workshop.png)
+- [AWS Cloud Practitioner Essentials via Coursera AWS](https://github.com/PriyadharshniA/assets/blob/main/AWS%20CF-02%20Courser%20Cert.png)
+- [Introduction to Cloud Security Workshop by Antisyphon training](https://github.com/PriyadharshniA/assets/blob/main/Intro%20to%20Cloud%20Sec%20Workshop%20-%20Certificate.png)
 
 
 <br/>
