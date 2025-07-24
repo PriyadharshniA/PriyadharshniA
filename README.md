@@ -2,19 +2,33 @@
 
 Passionate about cybersecurity and driven to contribute to a safer digital world. With 10+ years of experience in software testing, I possess strong analytical and problem-solving skills. Currently transitioning my career into AppSec/Cloud Security through dedicated self-study. Eager to learn and contribute to a team that prioritizes innovation and a strong security posture.<br/><br/>
 
-🌱 I’m currently learning -- AWS Cloud Practitioner Essentials, Introduction to Generative AI with AWS, CompTIA Security+ cert preparation<br/>
-🔭 I’m currently working on -- Vulnerability Analysis, WiCyS/Target Cyber Defense Challenge (Tier 1)<br/>
+🌱 **I’m currently learning** 
+- CompTIA Security+ cert preparation
+- AWS Cloud Practitioner Essentials
+- Introduction to Generative AI with AWS (Udacity Nanodegree)
+
+<br/>
+🔭 **I’m currently working on**
+- Vulnerability Analysis (WiCyS VDP)
+- WiCyS/Target Cyber Defense Challenge (Tier 1)
 
 <br/>
 
 ## Projects
 
+- [WiCys Vulnerability Disclosure Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- [WiCyS/Target Cyber Defense Challenge Tier 1](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- [AWS AI Engineer Nanodegree via Udacity Offered by AWS](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 - [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 
 <br/>
 
 ## Training & Certification
 - [Google Cybersecurity Professional Course](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- [Offensive Tooling Workshop Foundations Workshop by Antisyphon Training](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- [AWS Cloud Practitioner Essentials via Coursera AWS](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- [Introduction to Cloud Security Workshop by Antisyphon training](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+
 
 <br/>
 <br/>
