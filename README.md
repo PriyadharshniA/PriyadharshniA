@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Priya! <br/> 
 
-Passionate about cybersecurity and driven to contribute to a safer digital world. With 10+ years of experience in software testing, I possess strong analytical and problem-solving skills. Currently transitioning my career into Cloud Security through dedicated self-study. Eager to learn and contribute to a team that prioritizes innovation and a strong security posture.<br/><br/>
+Passionate about cybersecurity and driven to contribute to a safer digital world. With 10+ years of experience in software testing, I possess strong analytical and problem-solving skills. Currently transitioning my career into AppSec/Cloud Security through dedicated self-study. Eager to learn and contribute to a team that prioritizes innovation and a strong security posture.<br/><br/>
 
-🌱 I’m currently learning -- Google Cybersecurity Professional Course, AWS Cloud Practitioner Essentials<br/>
-🔭 I’m currently working on -- setting up a virtual cybersecurity lab to get my hands-on technical skills<br/>
+🌱 I’m currently learning -- AWS Cloud Practitioner Essentials, Introduction to Generative AI with AWS, CompTIA Security+ cert preparation<br/>
+🔭 I’m currently working on -- Vulnerability Analysis, WiCyS/Target Cyber Defense Challenge (Tier 1)<br/>
 
 <br/>
 
@@ -13,6 +13,9 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 
 <br/>
 
+## Google Cybersecurity Professional Course
+
+## My Credly
 
 ## Connect with me
 
