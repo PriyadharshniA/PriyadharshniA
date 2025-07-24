@@ -5,9 +5,9 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 🌱 **I’m currently learning** 
 - CompTIA Security+ cert preparation
 - AWS Cloud Practitioner Essentials
-- Introduction to Generative AI with AWS (Udacity Nanodegree)
+- Introduction to Generative AI with AWS (Udacity Nanodegree)<br/><br/>
 
-<br/>
+
 🔭 **I’m currently working on**
 - Vulnerability Analysis (WiCyS VDP)
 - WiCyS/Target Cyber Defense Challenge (Tier 1)
