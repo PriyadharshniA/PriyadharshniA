@@ -16,7 +16,12 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 ## Training & Certification
 - [Google Cybersecurity Professional Course](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 
+<br/>
+<br/>
+<br/>
 
+## 
+<br/>
 <a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp; 
 <a href="https://tryhackme.com/r/p/PriAru"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a> &ensp;
 <a href="https://www.coursera.org/learner/priyaaruchami"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> &ensp;
