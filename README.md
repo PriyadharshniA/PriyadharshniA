@@ -4,7 +4,7 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 
 🌱 **I’m currently learning** 
 - CompTIA Security+ cert preparation
-- AWS Cloud Practitioner Essentials
+- AWS Cloud Practitioner Cert
 <br/><br/>
 
 
