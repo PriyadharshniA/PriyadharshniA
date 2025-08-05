@@ -16,7 +16,7 @@ Passionate about cybersecurity and driven to contribute to a safer digital world
 
 ## Projects
 
-- [WiCys Vulnerability Disclosure Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+- WiCys Vulnerability Disclosure Program
 - [WiCyS/Target Cyber Defense Challenge 2025](https://github.com/PriyadharshniA/WiCysTargetCTF-2025)
 - [CampEats-PartyRockApp](https://github.com/PriyadharshniA/CampEats-PartyRockApp)
 - [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
