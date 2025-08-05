@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Priya! <br/> 
 
-Passionate about cybersecurity and driven to contribute to a safer digital world. With 10+ years of experience in software testing, I possess strong analytical and problem-solving skills. Currently transitioning my career into AppSec/Cloud Security through dedicated self-study. Eager to learn and contribute to a team that prioritizes innovation and a strong security posture.<br/><br/>
+Passionate about cybersecurity and driven to contribute to a safer digital world. With 10+ years of experience in software testing, I possess strong analytical and problem-solving skills. Currently transitioning my career into Application Security through dedicated self-study. Eager to learn and contribute to a team that prioritizes innovation and a strong security posture.<br/><br/>
 
 🌱 **I’m currently learning** 
 - CompTIA Security+ cert preparation
