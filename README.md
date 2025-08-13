@@ -15,9 +15,13 @@ I'm passionate about securing digital environments, with a decade of experience 
 
 ## Projects
 
+- [CampEats-PartyRockApp](https://github.com/PriyadharshniA/CampEats-PartyRockApp)
+- [Securing Bedrock](https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Securing-Bedrock)
+- [Building Serverless Agentic AI Applications](https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Serverless-AgenticAI)
+- [Network Firewall & DNS Firewall](https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Network%20Firewall-DNS%20Firewall)
 - WiCys Vulnerability Disclosure Program
 - [WiCyS/Target Cyber Defense Challenge 2025](https://github.com/PriyadharshniA/WiCysTargetCTF-2025)
-- [CampEats-PartyRockApp](https://github.com/PriyadharshniA/CampEats-PartyRockApp)
+
 - [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 
 <br/>
