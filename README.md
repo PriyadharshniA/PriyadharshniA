@@ -1,16 +1,16 @@
 ### Hi there 👋, I'm Priya! <br/> 
 I'm passionate about securing digital environments, with a decade of experience in software QA providing a solid foundation for cybersecurity with proven ability to analyze complex systems and identify vulnerabilities. I've been actively building my skills to find my way into Application Security through dedicated self-study, building and contributing to projects. I'm ready to leverage my testing expertise and eager to contribute to a security-focused team to safeguard digital assets. <br/><br/>
-
+<!--
 🌱 **I’m currently learning** 
 - CompTIA Security+ cert preparation
 - AWS Cloud Practitioner Cert
 <br/><br/>
-
+-->
 
 🔭 **I’m currently working on**
+- CompTIA Security+ Cert preparation
+- AWS Cloud Practitioner Cert
 - Vulnerability Analysis (WiCyS VDP)
-- WiCyS/Target Cyber Defense Challenge (Tier 1)
-
 <br/>
 
 ## Projects
