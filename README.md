@@ -44,7 +44,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 <a href="https://www.credly.com/users/priyaaruchami/badges#credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 <br/>
 <br/>
-<a href="https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d"><img src="https://github.com/PriyadharshniA/assets/blob/main/aws-certified-ai-practitioner.png" height="18%" width="18%" /></a> &ensp;
+<a href="https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d"><img src="https://github.com/PriyadharshniA/assets/blob/main/aws-certified-ai-practitioner.png" height="15%" width="15%" /></a> &ensp;
 <!--
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PriyadharshniA&theme=tokyonight" height="56%" width="56%" />
