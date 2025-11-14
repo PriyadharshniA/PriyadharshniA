@@ -3,13 +3,14 @@ I'm passionate about securing digital environments, with a decade of experience 
 <!--
 🌱 **I’m currently learning** 
 - CompTIA Security+ cert preparation
-<br/><br/>
+<br/>
 -->
 
 🔭 **I’m currently working on**
 - CompTIA Security+ Cert preparation
 - OWASP GenAI Security Project - FinBot CTF Workstream (Contributor - Quality & Security Engineer)
 <br/>
+
 ## Projects
 - [CampEats-PartyRockApp](https://github.com/PriyadharshniA/CampEats-PartyRockApp)
 - [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
@@ -21,9 +22,11 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [WiCyS/Target Cyber Defense Challenge 2025](https://github.com/PriyadharshniA/WiCysTargetCTF-2025)
 --> 
 <br/>
+
 ## Certification
 - [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
 <br/>
+
 ## Trainings
 
 - [AWS AI Engineer Nanodegree via Udacity Offered by AWS](https://github.com/PriyadharshniA/assets/blob/main/Introduction%20to%20Generative%20AI%20with%20AWS.png)
@@ -32,6 +35,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [AWS Cloud Practitioner Essentials via Coursera AWS](https://github.com/PriyadharshniA/assets/blob/main/AWS%20CF-02%20Courser%20Cert.png)
 - [Introduction to Cloud Security Workshop by Antisyphon training](https://github.com/PriyadharshniA/assets/blob/main/Intro%20to%20Cloud%20Sec%20Workshop%20-%20Certificate.png)
 <br/>
+
 ## 
 
 <a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp; 
