@@ -12,7 +12,6 @@ I'm passionate about securing digital environments, with a decade of experience 
 <br/>
 
 ## Projects
-
 - [CampEats-PartyRockApp](https://github.com/PriyadharshniA/CampEats-PartyRockApp)
 - [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 <!--
@@ -26,7 +25,6 @@ I'm passionate about securing digital environments, with a decade of experience 
 
 ## Certification
 - [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
-
 <br/>
 
 ## Trainings
@@ -40,7 +38,6 @@ I'm passionate about securing digital environments, with a decade of experience 
 <br/>
 ## 
 
-<br/>
 <a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp; 
 <a href="https://tryhackme.com/r/p/PriAru"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a> &ensp;
 <a href="https://www.coursera.org/learner/priyaaruchami"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> &ensp;
