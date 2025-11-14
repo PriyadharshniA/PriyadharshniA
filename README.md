@@ -20,7 +20,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [Network Firewall & DNS Firewall](<https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Network%20Firewall-DNS%20Firewall)
 - WiCys Vulnerability Disclosure Program
 - [WiCyS/Target Cyber Defense Challenge 2025](https://github.com/PriyadharshniA/WiCysTargetCTF-2025)
--->
+--> 
 - [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 
 <br/>
@@ -53,6 +53,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 <br/>
 <br/>
 <br/>
+<a href="https://linkedin.com/in/priyaaruchami"><img src="https://github.com/PriyadharshniA/assets/blob/main/aws-certified-ai-practitioner.png" /></a> &ensp;
 <!--
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PriyadharshniA&theme=tokyonight" height="56%" width="56%" />
