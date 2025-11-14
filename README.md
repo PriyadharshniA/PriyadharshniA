@@ -28,6 +28,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
 
 <br/>
+
 ## Trainings
 
 - [AWS AI Engineer Nanodegree via Udacity Offered by AWS](https://github.com/PriyadharshniA/assets/blob/main/Introduction%20to%20Generative%20AI%20with%20AWS.png)
@@ -38,6 +39,7 @@ I'm passionate about securing digital environments, with a decade of experience 
   
 <br/>
 ## 
+
 <br/>
 <a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp; 
 <a href="https://tryhackme.com/r/p/PriAru"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a> &ensp;
