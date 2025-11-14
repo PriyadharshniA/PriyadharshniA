@@ -14,6 +14,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 ## Projects
 
 - [CampEats-PartyRockApp](https://github.com/PriyadharshniA/CampEats-PartyRockApp)
+- [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 <!--
 - [Securing Bedrock](https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Securing-Bedrock)
 - [Building Serverless Agentic AI Applications](https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Serverless-AgenticAI)
@@ -21,15 +22,12 @@ I'm passionate about securing digital environments, with a decade of experience 
 - WiCys Vulnerability Disclosure Program
 - [WiCyS/Target Cyber Defense Challenge 2025](https://github.com/PriyadharshniA/WiCysTargetCTF-2025)
 --> 
-- [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
-
 <br/>
 
 ## Certification
 - [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
 
 <br/>
-
 ## Trainings
 
 - [AWS AI Engineer Nanodegree via Udacity Offered by AWS](https://github.com/PriyadharshniA/assets/blob/main/Introduction%20to%20Generative%20AI%20with%20AWS.png)
@@ -39,15 +37,12 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [Introduction to Cloud Security Workshop by Antisyphon training](https://github.com/PriyadharshniA/assets/blob/main/Intro%20to%20Cloud%20Sec%20Workshop%20-%20Certificate.png)
   
 <br/>
-<br/>
-
 ## 
 <br/>
 <a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp; 
 <a href="https://tryhackme.com/r/p/PriAru"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" /></a> &ensp;
 <a href="https://www.coursera.org/learner/priyaaruchami"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> &ensp;
 <a href="https://www.credly.com/users/priyaaruchami/badges#credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
-<br/>
 <br/>
 <br/>
 <a href="https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d"><img src="https://github.com/PriyadharshniA/assets/blob/main/aws-certified-ai-practitioner.png" height="21%" width="21%" /></a> &ensp;
