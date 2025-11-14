@@ -50,11 +50,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<p align="left">
-<a href="https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d"><img src="https://github.com/PriyadharshniA/assets/blob/main/aws-certified-ai-practitioner.png" height="26%" width="26%" /></a> &ensp;
+<a href="https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d"><img src="https://github.com/PriyadharshniA/assets/blob/main/aws-certified-ai-practitioner.png" height="21%" width="21%" /></a> &ensp;
 <!--
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PriyadharshniA&theme=tokyonight" height="56%" width="56%" />
