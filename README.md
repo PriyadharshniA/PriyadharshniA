@@ -3,14 +3,12 @@ I'm passionate about securing digital environments, with a decade of experience 
 <!--
 🌱 **I’m currently learning** 
 - CompTIA Security+ cert preparation
-- AWS Cloud Practitioner Cert
 <br/><br/>
 -->
 
 🔭 **I’m currently working on**
 - CompTIA Security+ Cert preparation
-- AWS Cloud Practitioner Cert
-- Vulnerability Analysis (WiCyS VDP)
+- OWASP GenAI Security Project - FinBot CTF Workstream (Contributor - Quality & Security Engineer)
 <br/>
 
 ## Projects
@@ -26,6 +24,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 <br/>
 
 ## Training & Certification
+- [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
 - [AWS AI Engineer Nanodegree via Udacity Offered by AWS](https://github.com/PriyadharshniA/assets/blob/main/Introduction%20to%20Generative%20AI%20with%20AWS.png)
 - [Google Cybersecurity Professional Course](https://github.com/PriyadharshniA/assets/blob/main/Google%20Cybersecurity%20Certificate.png)
 - [Offensive Tooling Workshop Foundations Workshop by Antisyphon Training](https://github.com/PriyadharshniA/assets/blob/main/Offensive%20Tooling%20Foundations%20Workshop.png)
