@@ -21,11 +21,9 @@ I'm passionate about securing digital environments, with a decade of experience 
 - WiCys Vulnerability Disclosure Program
 - [WiCyS/Target Cyber Defense Challenge 2025](https://github.com/PriyadharshniA/WiCysTargetCTF-2025)
 --> 
-<br/>
 
 ## Certification
 - [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
-<br/>
 
 ## Trainings
 
@@ -34,7 +32,6 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [Offensive Tooling Workshop Foundations Workshop by Antisyphon Training](https://github.com/PriyadharshniA/assets/blob/main/Offensive%20Tooling%20Foundations%20Workshop.png)
 - [AWS Cloud Practitioner Essentials via Coursera AWS](https://github.com/PriyadharshniA/assets/blob/main/AWS%20CF-02%20Courser%20Cert.png)
 - [Introduction to Cloud Security Workshop by Antisyphon training](https://github.com/PriyadharshniA/assets/blob/main/Intro%20to%20Cloud%20Sec%20Workshop%20-%20Certificate.png)
-<br/>
 
 ## 
 
