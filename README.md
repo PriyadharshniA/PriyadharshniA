@@ -34,8 +34,8 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [Offensive Tooling Workshop Foundations Workshop by Antisyphon Training](https://github.com/PriyadharshniA/assets/blob/main/Offensive%20Tooling%20Foundations%20Workshop.png)
 - [AWS Cloud Practitioner Essentials via Coursera AWS](https://github.com/PriyadharshniA/assets/blob/main/AWS%20CF-02%20Courser%20Cert.png)
 - [Introduction to Cloud Security Workshop by Antisyphon training](https://github.com/PriyadharshniA/assets/blob/main/Intro%20to%20Cloud%20Sec%20Workshop%20-%20Certificate.png)
-  
 <br/>
+
 ## 
 
 <a href="https://linkedin.com/in/priyaaruchami"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &ensp; 
@@ -44,7 +44,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 <a href="https://www.credly.com/users/priyaaruchami/badges#credly"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a>
 <br/>
 <br/>
-<a href="https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d"><img src="https://github.com/PriyadharshniA/assets/blob/main/aws-certified-ai-practitioner.png" height="21%" width="21%" /></a> &ensp;
+<a href="https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d"><img src="https://github.com/PriyadharshniA/assets/blob/main/aws-certified-ai-practitioner.png" height="12%" width="12%" /></a> &ensp;
 <!--
 <p align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PriyadharshniA&theme=tokyonight" height="56%" width="56%" />
