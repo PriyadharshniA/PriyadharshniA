@@ -20,8 +20,9 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [Network Firewall & DNS Firewall](<https://github.com/PriyadharshniA/AWS-Activationdays-Workshops/tree/main/Network%20Firewall-DNS%20Firewall)
 - WiCys Vulnerability Disclosure Program
 - [WiCyS/Target Cyber Defense Challenge 2025](https://github.com/PriyadharshniA/WiCysTargetCTF-2025)
-- [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
 -->
+- [Team Sprint - Cybersecurity Program](https://github.com/PriyadharshniA/Clicked-WiCyS-Cybersecurity-Program-Team-Sprint)
+
 <br/>
 
 ## Training & Certification
