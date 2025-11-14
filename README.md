@@ -29,12 +29,15 @@ I'm passionate about securing digital environments, with a decade of experience 
 - [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
 
 <br/>
+
 ## Trainings
+
 - [AWS AI Engineer Nanodegree via Udacity Offered by AWS](https://github.com/PriyadharshniA/assets/blob/main/Introduction%20to%20Generative%20AI%20with%20AWS.png)
 - [Google Cybersecurity Professional Course](https://github.com/PriyadharshniA/assets/blob/main/Google%20Cybersecurity%20Certificate.png)
 - [Offensive Tooling Workshop Foundations Workshop by Antisyphon Training](https://github.com/PriyadharshniA/assets/blob/main/Offensive%20Tooling%20Foundations%20Workshop.png)
 - [AWS Cloud Practitioner Essentials via Coursera AWS](https://github.com/PriyadharshniA/assets/blob/main/AWS%20CF-02%20Courser%20Cert.png)
 - [Introduction to Cloud Security Workshop by Antisyphon training](https://github.com/PriyadharshniA/assets/blob/main/Intro%20to%20Cloud%20Sec%20Workshop%20-%20Certificate.png)
+  
 <br/>
 <br/>
 
