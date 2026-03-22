@@ -7,7 +7,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 -->
 
 🔭 **I’m currently working on**
-- CompTIA Security+ Cert preparation
+
 - OWASP GenAI Security Project - FinBot CTF Workstream (Contributor - Quality & Security Engineer)
 <br/>
 
@@ -25,6 +25,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 
 ## Certification
 - [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
+- [CompTIA Security+](https://www.credly.com/badges/50f2c120-5bdd-4954-996c-abdd7339a1f3)
 <br/>
 
 ## Trainings
