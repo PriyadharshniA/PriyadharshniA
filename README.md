@@ -24,7 +24,7 @@ I'm passionate about securing digital environments, with a decade of experience 
 <br/>
 
 ## Certification
-- [AWS Certified AI Practitioner](https://github.com/PriyadharshniA/assets/blob/main/AWS%20Certified%20AI%20Practitioner.png)
+- [AWS Certified AI Practitioner](https://www.credly.com/badges/67aba406-9993-45f8-a0ee-0c4e83ea246d)
 - [CompTIA Security+](https://www.credly.com/badges/50f2c120-5bdd-4954-996c-abdd7339a1f3)
 <br/>
 
